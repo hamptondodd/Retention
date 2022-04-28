@@ -5,12 +5,12 @@
   "logo": {
     "file": "",
     "link": "",
-    "text": "hamp"
+    "text": "Hamp"
   },
   "text": {
-    "more": "test stieglercollective1 test stieglercollective1",
-    "intro": "test stieglercollective1",
-    "title": "RT1"
+    "more": "An ego-network visualization of Bernard Stiegler\u0027s use of the notion of retention",
+    "intro": "An ego-network visualization of Bernard Stiegler\u0027s use of the notion of retention",
+    "title": "Retention"
   },
   "legend": {
     "edgeLabel": "edge description",
